@@ -1,0 +1,2 @@
+# StudentCRUD
+.net core
