@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\studentcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\studentcrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\studentcrud\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|solutionrelative:service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\studentcrud\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|solutionrelative:service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\studentcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\studentcrud\\context\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|solutionrelative:context\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\studentcrud\\requestresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|solutionrelative:requestresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\studentcrud\\models\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|solutionrelative:models\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\studentcrud\\studentcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD14996F-69B5-491C-AC2E-4D6775B956F5}|StudentCRUD.csproj|solutionrelative:studentcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T08:37:25.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:06:19.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\Service\\StudentService.cs",
+              "RelativeToolTip": "Service\\StudentService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:23:07.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\Service\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Service\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\Service\\IStudentService.cs",
+              "RelativeToolTip": "Service\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:12:41.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\RequestResponse\\Response.cs",
+              "RelativeDocumentMoniker": "RequestResponse\\Response.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\RequestResponse\\Response.cs",
+              "RelativeToolTip": "RequestResponse\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T07:06:52.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:39:20Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\Context\\StudentContext.cs",
+              "RelativeDocumentMoniker": "Context\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\Context\\StudentContext.cs",
+              "RelativeToolTip": "Context\\StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:35:25.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\Models\\StudentEntity.cs",
+              "RelativeDocumentMoniker": "Models\\StudentEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\Models\\StudentEntity.cs",
+              "RelativeToolTip": "Models\\StudentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:31:51.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentCRUD.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\StudentCRUD.csproj",
+              "RelativeDocumentMoniker": "StudentCRUD.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\StudentCRUD\\StudentCRUD.csproj",
+              "RelativeToolTip": "StudentCRUD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T06:30:51.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
